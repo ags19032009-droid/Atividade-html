@@ -1,0 +1,20 @@
+ body{ 
+    background-color: brown;
+ }
+ ul{
+    background-color: antiquewhite;
+    font-size: 50px;
+    color: #8a817c;;
+ }
+ h1{
+    color: #8a817c;
+    border-style:groove;
+    border-color: black;
+ }
+ .carro{
+    color: aqua;
+ }
+.planetas h1 {
+font-size: 50px;
+color: beige;
+}
