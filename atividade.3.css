@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+.principal{
+    background-color: #fff1e6;
+    margin: 50px;
+    padding: 25px;
+    width: 800px;
+    margin: 0 auto;
+}
+.data{
+    color: #0077b6;
+}
+.conteudo{
+    color: #d5bdaf;
+}

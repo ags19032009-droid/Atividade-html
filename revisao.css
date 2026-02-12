@@ -1,0 +1,16 @@
+
+.conteudo{
+    background-color: rgb(189, 186, 39);
+    padding: 100px;
+    margin: 450px;
+}
+.conteudo p{
+    color: rgb(255, 255, 255);  
+    border-style: groove;
+    border: solid black;
+    background-color: black;
+    text-align: center;
+    padding: 10px;
+    width: 30%;
+    margin: 0 auto;
+}

@@ -1,5 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&display=swap');
+
 body{
-    background-color: #2c3e50;
+    background-color: #2c3e50;font-family: "Lora", serif;
 }
 .titulo{
     color: #f8f9fa;
